@@ -64,3 +64,6 @@ As a Data scientist, you have to **showcase your findings in a visual form**, so
 * [SQL ITI](https://drive.google.com/drive/folders/1P_uUWl6pBPC3MFrqR_ovoJQNCZhi9rAS)          
 ## Data Science Tools
 * [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+
+
+# Intermediate Level 👇 
