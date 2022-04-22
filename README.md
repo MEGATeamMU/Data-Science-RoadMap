@@ -38,14 +38,22 @@
 
 ## Data Cleaning : 
 > feel free to take a look at a buch of Notebooks of others through kaggle :)
-[Blog](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)
-[Kaggle](https://www.kaggle.com/learn/data-cleaning)
-[Pandas 100 tricks](https://www.kaggle.com/code/shivan118/pandas-100-tricks)
+* [Blog](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)
+* [Kaggle](https://www.kaggle.com/learn/data-cleaning)
+* [Pandas 100 tricks](https://www.kaggle.com/code/shivan118/pandas-100-tricks)
 
 ## EDA :
+![image](https://user-images.githubusercontent.com/70972406/164596196-b116438f-d03f-42e2-b1f9-d187949cfd0b.png)
+
+As a Data scientist, you have to **showcase your findings in a visual form**, so that **stakeholders can understand them properly**
 * [How to ask good questions?](https://towardsdatascience.com/how-to-ask-good-questions-be41b517c1b)
 * [Practical Statistics for Data Scientists Book](https://eg1lib.org/book/5524607/1e8e36)
+* [HowHow To choose the right chart](https://www.data-to-viz.com/?fbclid=IwAR1dWey6y_7DbHEX6dKdIzlOPfsBhmBbHa0XgDoRWmTHovxfb1QbZCihobk#boxplot)
+* [Matplotlib Course 1](https://www.youtube.com/watch?v=zl5qPnqps8M&list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl&index=2) 
+* [Matplotlib Course 2](https://www.youtube.com/watch?v=UUy6_ElQXBY&list=PLtPIclEQf-3dJmAj3IsSRwRoLbX-n3J81)
+* [Seaborn  Course 1](https://www.youtube.com/watch?v=W-jaYQq1C7Q&list=PLJIOr9Je9wzHT-ptgfelpt2Nyx4VGX_j9)
+* [Seaborn  Course 2](https://www.youtube.com/watch?v=vaf4ir8eT38&list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j&index=3)
 
-## Matplotlib 
-
-## Seaborn
+## Dashboards :
+* [Power BI](https://drive.google.com/drive/folders/1gwxJtxsshN0pQHXzLhkl4Syw42Go11-n)
+* [Fundamentals of Data Visualization with Power BI– edX](https://www.edx.org/professional-certificate/fundamentals-of-data-visualization-with-power-bi?source=aw&awc=6798_1650600645_00901530d2f2bb27713afc834b13839e&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=790615_MLTUT)
