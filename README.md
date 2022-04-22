@@ -118,3 +118,7 @@ As a Data scientist, you have to **showcase your findings in a visual form**, so
 * [Andrew Ng](https://twitter.com/AndrewYNg)
 * [KDnuggets](https://twitter.com/kdnuggets)
 * [Yann LeCun](https://twitter.com/ylecun?s=08)
+
+## Useful Links :
+* [Kaggle Competitions](https://www.kaggle.com/competitions)
+* [The Top 15 Places to Find Datasets 📊](https://towardsdatascience.com/the-top-10-best-places-to-find-datasets-8d3b4e31c442)
