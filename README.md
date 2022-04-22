@@ -90,3 +90,7 @@ As a Data scientist, you have to **showcase your findings in a visual form**, so
 * [Think Stats](https://b-ok.africa/book/2737548/7659e9)
 * [Practical Statistics for Data Scientists](https://eg1lib.org/book/5524607/1e8e36)
 > last but not least everything you need to know about statistics feel free to go ahead to this Amazing YouTupe chanel [BrandonFoltz](https://www.youtube.com/c/BrandonFoltz/playlists)
+
+## Time Series Analysis :
+* [fbprohet](https://facebook.github.io/prophet/docs/quick_start.html)
+* [Case-study] (https://www.youtube.com/watch?v=iLY2Q43ES1o&t=774s)
