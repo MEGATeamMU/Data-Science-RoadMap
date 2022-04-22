@@ -93,4 +93,9 @@ As a Data scientist, you have to **showcase your findings in a visual form**, so
 
 ## Time Series Analysis :
 * [fbprohet](https://facebook.github.io/prophet/docs/quick_start.html)
-* [Case-study] (https://www.youtube.com/watch?v=iLY2Q43ES1o&t=774s)
+* [playlist](https://www.youtube.com/playlist?list=PL8eNk_zTBST-dRBPxVlqsQjFVYB_IPaAR)
+* [Case-study](https://www.youtube.com/watch?v=iLY2Q43ES1o&t=774s)
+
+## Feature Engineering :
+* [kaggle](https://www.kaggle.com/learn/feature-engineering)
+* [Article](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114)
