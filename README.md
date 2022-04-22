@@ -101,7 +101,6 @@ As a Data scientist, you have to **showcase your findings in a visual form**, so
 * [Article](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114)
 
 
-## I alwyas 
 ## Join Data Science Communities :
 
 ### Instagram Pages :
