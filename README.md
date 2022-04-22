@@ -85,3 +85,6 @@ As a Data scientist, you have to **showcase your findings in a visual form**, so
 
 ![image](https://user-images.githubusercontent.com/70972406/164788389-99cd1459-7b59-4ab3-9d63-5485f658b0f5.png)
 
+## Advanced statistics :
+* [Think Bayes](https://b-ok.africa/book/2737587/ab97d5)
+* [Think Stats](https://b-ok.africa/book/2737548/7659e9)
