@@ -67,3 +67,19 @@ As a Data scientist, you have to **showcase your findings in a visual form**, so
 
 
 # Intermediate Level 👇 
+## Getting start with machine learning the first thing is to study math as much as you can !
+
+* [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
+* [The essence of calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+* [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+* [Multivariable Calculus](https://www.youtube.com/watch?v=TrcCbdWwCBc&list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)
+* [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+
+### To learn theory:
+* [Machine Learning](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=OyHlmBp2G0c&ranSiteID=OyHlmBp2G0c-otv.ZfwovJb_vJ0cDnWPRw&siteID=OyHlmBp2G0c-otv.ZfwovJb_vJ0cDnWPRw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c)
+
+
+
+
+![image](https://user-images.githubusercontent.com/70972406/164788389-99cd1459-7b59-4ab3-9d63-5485f658b0f5.png)
+
