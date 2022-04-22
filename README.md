@@ -108,8 +108,8 @@ As a Data scientist, you have to **showcase your findings in a visual form**, so
 
 
 ### Reddit communities :
-1- [r/datascience](https://www.reddit.com/r/datascience/)
-2- [r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
-3- [r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
+* [r/datascience](https://www.reddit.com/r/datascience/)
+* [r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
+* [r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
 
 ## Twitter Accounts :
