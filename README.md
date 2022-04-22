@@ -11,7 +11,7 @@
 
 ## Descriptive Stats :
 > To become a successful data scientist, you should have knowledge of Statistics. Statistics knowledge will give you the ability to **decide which algorithm is good for a certain problem**
-> 
+* [Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 * [Udacity](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 * [YouTupe playlist](https://www.youtube.com/watch?v=_VO9GSrKlYM&list=PLWd4nYaF_Vx7keNcSQ5B8IXe6scV5DSkg&index=3)
 * [Head First Statistics Book](https://eg1lib.org/book/647528/e6832a)
