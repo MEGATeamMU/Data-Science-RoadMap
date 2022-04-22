@@ -77,9 +77,11 @@ As a Data scientist, you have to **showcase your findings in a visual form**, so
 
 ### To learn theory:
 * [Machine Learning](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=OyHlmBp2G0c&ranSiteID=OyHlmBp2G0c-otv.ZfwovJb_vJ0cDnWPRw&siteID=OyHlmBp2G0c-otv.ZfwovJb_vJ0cDnWPRw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c)
+* [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python?fbclid=IwAR11OySwNzi_G8Sn5PJPqwxsngJ8RTRmrOjAEILbdC1sz1lR0gsGWn-TifI)
 
-
-
+### Hands On:
+* [Hands-On Machine Learning with Scikit-Learn Book](https://eg1lib.org/book/5207527/b6e3a9)
+* [Applied Machine Learning](https://www.youtube.com/watch?v=d79mzijMAw0&list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
 
 ![image](https://user-images.githubusercontent.com/70972406/164788389-99cd1459-7b59-4ab3-9d63-5485f658b0f5.png)
 
