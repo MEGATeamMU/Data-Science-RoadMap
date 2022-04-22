@@ -105,7 +105,9 @@ As a Data scientist, you have to **showcase your findings in a visual form**, so
 ## Join Data Science Communities :
 
 ### Instagram Pages :
-
+* [analytics_vidhya](https://www.instagram.com/analytics_vidhya/?utm_medium=copy_link)
+* [know_datascience](https://www.instagram.com/know_datascience/?utm_medium=copy_link)
+* [a.i.india](https://www.instagram.com/a.i.india/?utm_medium=copy_link)
 
 ### Reddit communities :
 * [r/datascience](https://www.reddit.com/r/datascience/)
@@ -113,3 +115,6 @@ As a Data scientist, you have to **showcase your findings in a visual form**, so
 * [r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
 
 ## Twitter Accounts :
+* [Andrew Ng](https://twitter.com/AndrewYNg)
+* [KDnuggets](https://twitter.com/kdnuggets)
+* [Yann LeCun](https://twitter.com/ylecun?s=08)
