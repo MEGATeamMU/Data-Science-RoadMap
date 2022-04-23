@@ -6,6 +6,10 @@
 > **Data Science** is an interdisciplinary field that focuses on extracting knowledge from data sets which are typically huge in amount. The field encompasses analysis, preparing data for analysis, and presenting findings to inform high-level decisions in an organization.
 
 ## Getting Started 🚀
+> In this roadmap I will recommend `Python`, although
+you may encounter `R` in more Data Analytics related jobs. Python mastery will
+come with time - learn enough basics to be able to read code and implement
+some simple projects with it.
 
 # Beginner Level 👇
 
