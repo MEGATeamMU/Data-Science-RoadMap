@@ -60,13 +60,15 @@ As a Data scientist, you have to **showcase your findings in a visual form**, so
 * [Fundamentals of Data Visualization with Power BI– edX](https://www.edx.org/professional-certificate/fundamentals-of-data-visualization-with-power-bi?source=aw&awc=6798_1650600645_00901530d2f2bb27713afc834b13839e&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=790615_MLTUT)
 
 ## SQL and DB : 
-> Note, you njust need up to week 5  
+> Note,All you need from week 1 to week 5  
 * [SQL ITI](https://drive.google.com/drive/folders/1P_uUWl6pBPC3MFrqR_ovoJQNCZhi9rAS)          
 ## Data Science Tools
 * [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 
 
 # Intermediate Level 👇 
+>Quick Remember, going into ML is a `lifelong learning commitment` - you are going to learn new things time after time no matter how far you are in your career.
+
 ## Getting start with machine learning the first thing is to study math as much as you can !
 
 * [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
@@ -74,6 +76,13 @@ As a Data scientist, you have to **showcase your findings in a visual form**, so
 * [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * [Multivariable Calculus](https://www.youtube.com/watch?v=TrcCbdWwCBc&list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)
 * [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+
+## Questions about Machine Learning?
+* How do I choose **which attributes** of my data to include in the model?
+* How do I choose **which model** to use?
+* How do I **optimize** this model for best performance?
+* How do I ensure that I'm building a model that will **generalize** to unseen data?
+* Can I **estimate** how well my model is likely to perform on unseen data?
 
 ### To learn theory:
 * [Machine Learning](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=OyHlmBp2G0c&ranSiteID=OyHlmBp2G0c-otv.ZfwovJb_vJ0cDnWPRw&siteID=OyHlmBp2G0c-otv.ZfwovJb_vJ0cDnWPRw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c)
