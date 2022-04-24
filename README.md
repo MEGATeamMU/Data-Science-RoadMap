@@ -41,7 +41,7 @@ some simple projects with it.
 * [Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
 
 ## Data Cleaning : 
-> feel free to take a look at a buch of Notebooks of others through kaggle :)
+> feel free to take a look at a buch of Notebooks of others through [kaggle](https://www.kaggle.com/code/vahidehdashti/let-s-go-first-step-guideline) :)
 * [Blog](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)
 * [Kaggle](https://www.kaggle.com/learn/data-cleaning)
 * [Playlist](https://www.youtube.com/watch?v=hl-TGI4550M&list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)
