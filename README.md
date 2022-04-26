@@ -61,6 +61,7 @@ As a Data scientist, you have to **showcase your findings in a visual form**, so
 
 ## Dashboards :
 * [Power BI](https://drive.google.com/drive/folders/1gwxJtxsshN0pQHXzLhkl4Syw42Go11-n)
+* [Youtube](https://www.youtube.com/watch?v=ykvAWKML9Gk&list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)
 * [Fundamentals of Data Visualization with Power BI– edX](https://www.edx.org/professional-certificate/fundamentals-of-data-visualization-with-power-bi?source=aw&awc=6798_1650600645_00901530d2f2bb27713afc834b13839e&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=790615_MLTUT)
 
 ## SQL and DB : 
